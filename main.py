@@ -17,3 +17,5 @@ for paragraph in paragraphs:
         print(text)
         l.append(text)
 print(l)
+for i in l:
+  .split(i)
